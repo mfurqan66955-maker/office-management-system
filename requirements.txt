@@ -1,5 +1,0 @@
-streamlit
-pandas
-bcrypt
-Pillow
-streamlit-option-menu
